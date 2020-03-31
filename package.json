@@ -1,0 +1,18 @@
+{
+  "name": "wp-covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "covid": "./bin/covid.js"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cli-table3": "^0.6.0",
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
